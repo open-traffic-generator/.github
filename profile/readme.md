@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img style="vertical-align:middle" src="gear-icon.svg" width="75" height="75" alt="Open Traffic Generator Icon">
+  <img style="vertical-align:middle" src="profile/gear-icon.svg" width="75" height="75" alt="Open Traffic Generator Icon">
   Open Traffic Generator
 </h1>
 
 Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices and topologies (at any scale).
 
 <p align="center">
-    <img style="horizontal-align:middle" src="otg-overview.drawio.svg" alt="Open Traffic Generator Overview">
+    <img style="horizontal-align:middle" src="profile/otg-overview.drawio.svg" alt="Open Traffic Generator Overview">
 </p>
 
 ### Quick Tour
