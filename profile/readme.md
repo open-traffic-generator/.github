@@ -3,7 +3,7 @@
   <h1 align="center">Open Traffic Generator</h1>
 </div>
 
-Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices, applications and topologies (at any scale).  
+Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices and applications (at any scale).  
 
 
 <p align="center">
@@ -14,7 +14,7 @@ Open Traffic Generator (**OTG**) is an open standard, specifying declarative and
 
 Visit our website at [otg.dev](https://otg.dev/).
 
-- The [specification](https://github.com/open-traffic-generator/models) is written using [OpenApi](https://spec.openapis.org/oas/latest.html) (and custom extensions), with self-updating [online documentation](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/open-traffic-generator/models/master/artifacts/openapi.yaml&nocors)
+- The [specification](https://github.com/open-traffic-generator/models) is written using [OpenAPI](https://spec.openapis.org/oas/latest.html) (and custom extensions), with self-updating [online documentation](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/open-traffic-generator/models/master/artifacts/openapi.yaml&nocors)
 - The SDK is available for Python ([snappi](https://github.com/open-traffic-generator/snappi)) and Go ([gosnappi](https://github.com/open-traffic-generator/snappi/tree/main/gosnappi)),
     * Supports both `HTTPs/JSON` and `gRPC/protobuf` as transport
     * Intended to be used by both client and server
