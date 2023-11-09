@@ -2,7 +2,7 @@
   <h1 align="center"><a href="https://otg.dev" target="_blank">Open Traffic Generator APIs & Data Models</a></h1>
 </div>
 
-Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices and applications (at any scale).
+Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices and applications (at any scale). Visit our website at [otg.dev](https://otg.dev/) for more information.
 
 
 <p align="center">
@@ -10,8 +10,6 @@ Open Traffic Generator (**OTG**) is an open standard, specifying declarative and
 </p>
 
 ### Quick Tour
-
-Visit our website at [otg.dev](https://otg.dev/)
 
 - The [specification](https://github.com/open-traffic-generator/models) is written using [OpenAPI](https://spec.openapis.org/oas/latest.html) (and custom extensions), with self-updating [online documentation](https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/open-traffic-generator/models/master/artifacts/openapi.yaml&nocors)
 - Examples of using OTG APIs are available in [otg-examples](https://github.com/open-traffic-generator/otg-examples)
