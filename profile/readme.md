@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="profile/gear-icon.svg" width="100" height="100" alt="Open Traffic Generator Icon">
   <h1 align="center">Open Traffic Generator</h1>
 </div>
 
-Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices and applications (at any scale).  
+Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices and applications (at any scale).
 
 
 <p align="center">
