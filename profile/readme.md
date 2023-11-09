@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Open Traffic Generator</h1>
+  <h1 align="center"><a href="https://otg.dev" target="_blank">Open Traffic Generator APIs & Data Models</a></h1>
 </div>
 
 Open Traffic Generator (**OTG**) is an open standard, specifying declarative and vendor neutral API for testing Layer 2-7 network devices and applications (at any scale).
