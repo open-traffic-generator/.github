@@ -6,7 +6,7 @@ Open Traffic Generator (**OTG**) is an open standard, specifying declarative and
 
 
 <p align="center">
-    <img style="horizontal-align:middle" src="profile/otg-overview.drawio.svg" alt="Open Traffic Generator Overview">
+    <img style="horizontal-align:middle" src="otg-overview.drawio.svg" alt="Open Traffic Generator Overview">
 </p>
 
 ### Quick Tour
